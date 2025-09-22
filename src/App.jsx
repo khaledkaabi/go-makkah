@@ -1,10 +1,16 @@
 import './App.css'
+import AboutSection from './components/aboutSection'
+import AccompagnSection from './components/accompagnSection'
 import ContextSection from './components/contextSection'
+import DiscoverSection from './components/discoverSection'
 import Footer from './components/footer'
 import FooterBottom from './components/footerBottom'
+import FormuleSection from './components/formuleSection'
 import Navbar from './components/Navbar'
 import ProcessSection from './components/processSection'
+import RecomendationSection from './components/recomendationSection'
 import SolutionSection from './components/solutionSection'
+import WhyGomakkah from './components/whyGomakkah'
 
 function App() {
 
@@ -17,6 +23,12 @@ function App() {
       <ContextSection />
       <SolutionSection />
       <ProcessSection />
+      <DiscoverSection />
+      <AccompagnSection />
+      <FormuleSection />
+      <WhyGomakkah />
+      <RecomendationSection />
+      <AboutSection />
       <Footer />
       <FooterBottom />
     </>

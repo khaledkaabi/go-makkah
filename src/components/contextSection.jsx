@@ -11,7 +11,7 @@ const ContextSection = () => {
                                 Depuis plusieurs années, l’Arabie Saoudite a mis
                                 en place un système centralisé de gestion du Hajj appelé <strong>Nusuk</strong>.
                             </span>
-                            <img alt="Nusuk Hajj Logo" src="/NusukHajj-Logo 1.png" />
+                            <img alt="Nusuk Hajj Logo" src="/NusukHajj-Logo 1.svg" />
                             <span>
                                 Toutes les inscriptions et tous les packages Hajj passent par ce portail officiel.
                                 Les agences saoudiennes agréées y proposent leurs</span>

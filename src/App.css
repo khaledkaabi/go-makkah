@@ -39,3 +39,7 @@
 .read-the-docs {
   color: #888;
 }
+
+.bg-image-with-gradient {
+    background-image: linear-gradient(to top, rgba(0,0,0,0.7), transparent), url('/maskgroup.svg');
+}
