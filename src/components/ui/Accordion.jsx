@@ -190,37 +190,7 @@ const FAQAccordion = () => {
                 </Accordion.Item>
             </Accordion.Root>
 
-            <style jsx>{`
-        @keyframes slideDown {
-          from {
-            height: 0;
-            opacity: 0;
-          }
-          to {
-            height: var(--radix-accordion-content-height);
-            opacity: 1;
-          }
-        }
-
-        @keyframes slideUp {
-          from {
-            height: var(--radix-accordion-content-height);
-            opacity: 1;
-          }
-          to {
-            height: 0;
-            opacity: 0;
-          }
-        }
-
-        .animate-slideDown {
-          animation: slideDown 300ms cubic-bezier(0.87, 0, 0.13, 1);
-        }
-
-        .animate-slideUp {
-          animation: slideUp 300ms cubic-bezier(0.87, 0, 0.13, 1);
-        }
-      `}</style>
+        
         </div>
     );
 };
